@@ -1,4 +1,4 @@
-# Capture Zone Delineation Using ReverseParticleTracking
+# Capture Zone Delineation Using Reverse Particle Tracking
 # Developer: Dr. Partha Majumder
 # Email: parthamajpk@gmail.com
 
